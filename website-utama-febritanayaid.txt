@@ -4,3 +4,4 @@ Website Tersebut akan Menyimpan Project-Project Website Yang Sudah Dibuat
 Website Tersebut Juga Akan Berisi Blog Yang Berisi Artikel-Artikel Terkait Teknologi
 Beberapa Menu Yang Akan Dibuat Seperti Home, About, Portfolio, Contact dan Blog
 Website Utama Tersebut Akan Terus Diupdate dan Diperbarui
+Tampilan Website Akan Dibuat Menarik dan Responsive
