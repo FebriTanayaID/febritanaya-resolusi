@@ -1,4 +1,4 @@
-Memperdalam Ilmu Web Developer mulai dari HTML,CSS,JAVASCRIPT,PHP,GIT,GITHUB,LARAVEL,MY SQL
+Memperdalam Ilmu Web Developer mulai dari HTML,CSS,BOOTSTRAP,JAVASCRIPT,PHP,GIT,GITHUB,LARAVEL,MY SQL,API
 Mulai Membuat Project Dari Beberapa Bahasa Pemrograman Yang Sudah Dipelajari
 Belajar Beberapa Bahasa International Seperti BAHASA INGGRIS, BAHASA JEPANG, BAHASA MANDARIN
 Membaca Buku Pengembangan Diri, Buku Bisnis, Buku Belajar Bahasa, dan Buku Investasi
